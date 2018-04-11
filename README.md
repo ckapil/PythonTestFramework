@@ -22,3 +22,4 @@ Here is the Framework structure:
           v.	PrepExpectedData.py: Returns a dataframe containing the expected values for the test.
          vi.	QADisplayTestResult.py: Dumps the expected and actual values for a test to a csv file. We might remove this in future as we are planning to add this to the html reports.
 7.	QA Automation DB: The execution of the tests is controlled from a database. 
+ 
