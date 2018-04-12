@@ -1,5 +1,4 @@
 setuptools
-distutils.core
 paramiko
 pytest
 pandas
