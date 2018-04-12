@@ -7,7 +7,7 @@ author='CMP_QA_Team',
 packages=[
     'DatabaseSetup',
     'Utils',
-    'CatSynListingJob'
+    'CatSynListingJob',
     'TMALLOrderFlow'
 ],
 )
