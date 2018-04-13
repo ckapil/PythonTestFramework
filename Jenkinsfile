@@ -7,6 +7,5 @@ node ('master'){
 		def CONTAINER_ID = sh(
 			script: "docker run -d --network=host kcdockerhub/automation:PythonImage"
 		).trim()
-		echo "Container id: $(CONTAINER_ID)"			
 	}
 }
